@@ -22,6 +22,6 @@ In short, for any use case where research and education meet computational needs
 
 To get started with Nuvolos, you can try out the product for free. After the trial period, you will need a Nuvolos subscription. You can obtain a Nuvolos subscription via the [pricing page](https://nuvolos.cloud/pricing) on our website. For more information, refer to our documentation on the [Nuvolos pricing structure](pricing-and-billing/pricing-structure.md).
 
-Once you are set up with a Nuvolos subscription, check out our tutorials. We cover the research and education use cases, so you can get going quickly with the basic operations. We also explain the [basic concepts](getting-started/nuvolos-basic-concepts/) of the Nuvolos user interface, so you can navigate the platform with ease.
+Once you are set up with a Nuvolos subscription, check out our [tutorials](getting-started/quickstart-tutorials/). We cover the research and education use cases, so you can get going quickly with the basic operations. We also explain the [basic concepts](getting-started/nuvolos-basic-concepts/) of the Nuvolos user interface, so you can navigate the platform with ease.
 
 Should you still have questions, feel free to contact Nuvolos support at any time, either via the Intercom interface in the platform or by reaching out to us [via email](mailto:sales@nuvolos.cloud).
