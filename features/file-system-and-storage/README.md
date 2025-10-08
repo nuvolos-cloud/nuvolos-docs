@@ -71,64 +71,6 @@ Normally, space admins can increase the space's quota 3 times to avoid disruptio
 
 Resource pool managers can [further increase the quota](../../administration/monitoring-resource-usage/#modify-instance-quota) for spaces. Reach out to your resource pool manager to get a larger storage allowance.
 
-## Create a folder
-
-After navigating to the files view of the instance you are working in:
-
-![Creating a folder](../../.gitbook/assets/create_folder_ed.gif)
-
-## Upload files
-
-You can upload files and folders to Nuvolos with the upload button.
-
-![Uploading an entire folder with contents using drag and drop](../../.gitbook/assets/upload_folder_ed.gif)
-
-You can choose to upload files from your local device, or from a publicly accessible web address. The latter is recommended for uploading large amounts of data to Nuvolos, as it is handled by a background process and once started, you may even close your browser without interrupting the upload process.
-
-{% hint style="info" %}
-Upload from Web Address currently only support publicly available URLs, without any form of authentication.
-{% endhint %}
-
-{% hint style="info" %}
-Certain servers respond with a "Not found" page, but no error code when trying to access a non-existent asset on them. In such cases, the "Not found" page will be uploaded to Nuvolos.
-{% endhint %}
-
-In case you cannot upload a file from your local device due to it being extremely large, you can either upload it via a Web Address (if possible) or try uploading it via JupyterLab:
-
-1. Use the upload feature in JupyterLab:
-
-![Uploading large files](../../.gitbook/assets/upload_jupyter_ed.gif)
-
-## Download files
-
-You can download a file by selecting it and finding the download button:
-
-![Downloading a file](<../../.gitbook/assets/download_file_ed (1).gif>)
-
-## Delete files
-
-You can delete one or more files by selecting them and then finding the delete button.
-
-![Deleting a folder](../../.gitbook/assets/delete_folder_ed.gif)
-
-## Move files
-
-You can move files around in the directory structure using the following flow:
-
-![](../../.gitbook/assets/move_file_ed.gif)
-
-## Copy files
-
-You can copy a file to a different folder using the following steps:
-
-![Select the file to copy and move to the desired location](../../.gitbook/assets/copy_file_ed.gif)
-
-## Rename files
-
-You can rename a file by selecting it and finding the rename button:
-
-![Renaming a file](../../.gitbook/assets/rename_file_ed.gif)
-
 ## The diff feature
 
 It is possible to view the difference of two text files in two different snapshots. In this example, we assume that there was a snapshot taken in the instance.

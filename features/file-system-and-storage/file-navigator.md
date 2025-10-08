@@ -20,6 +20,20 @@ You can upload files from both your local computer, or from a publicly available
 
 <figure><img src="../../.gitbook/assets/image (122).png" alt=""><figcaption><p>Upload files from local device or URL</p></figcaption></figure>
 
+{% hint style="info" %}
+If you upload new file(s) with a name that matches existing file(s)/folder(s) on the file system, the new filename(s) will be renamed with a (1), (2), etc. postfix.
+{% endhint %}
+
+### Create files or folders
+
+You can create folders and simple text files directly using the New button next to Upload:
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you create a new file/folder with a name that matches an existing file/folder on the file system, the new filename will be renamed with a (1), (2), etc. postfix.
+{% endhint %}
+
 ### Download files
 
 You have multiple options to download files from Nuvolos to your local machine:
