@@ -25,6 +25,10 @@ When working with the files in /dropbox folder in your Nuvolos application, on a
 
 Dropbox synchronization only happens if files are read from / written to /dropbox.
 
+### Dropbox and file system quotas
+
+Since all files are read from and persisted back to Dropbox directly, files stored in your Dropbox account **will not increase** your [Nuvolos file system](./#nuvolos-file-system-nfs) usage footprint. This enables you to use Dropbox as a **storage extension** for your Nuvolos spaces.
+
 ### Unlink your Dropbox account
 
 You can unlink your Dropbox account anytime at [Account >  Settings > Dropbox Sync](https://az.nuvolos.cloud/user/settings/dropbox). Applications started after unlinking will not connect to Dropbox, running applications will still have a connection until restarted.
