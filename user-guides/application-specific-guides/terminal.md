@@ -1,7 +1,3 @@
----
-description: A pure terminal emulator application
----
-
 # Terminal
 
 The terminal application on Nuvolos is a `xterm` terminal emulator served directly in your browser. The terminal emulation runs the `bash` shell in a persistent tmux session, thus supporting long-running applications.
@@ -45,4 +41,4 @@ If you need further guidance with tmux, check out this [cheat sheet](https://pho
 
 ## Configuring bashrc
 
-Nuvolos treats .bashrc slightly different than a regular Linux system. Read the [documentation ](../../features/applications/create-a-persistent-.bashrc.md)on how to set up a persistent .bashrc for your terminal application.
+Nuvolos treats .bashrc slightly different than a regular Linux system. Read the [documentation](https://docs.nuvolos.cloud/features/applications/create-a-persistent-.bashrc) on how to set up a persistent .bashrc for your terminal application.
