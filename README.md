@@ -2,7 +2,7 @@
 
 ## What is Nuvolos?
 
-Nuvolos is an end-to-end solution for curious minds working with data and code.
+Nuvolos is an end-to-end solution for curious minds, working with data and code.
 
 Nuvolos is a cloud-native platform, accessible at any time and from any device, that provides a digital work environment for computational and data scientists at public and private institutions. The platform enables new forms of collaborative research with higher productivity, making it easier and faster for scientists to move from idea to result. The platform saves scientists the fixed costs - effort, money and time - of setting up and maintaining the computing infrastructure they need to do their work.
 
