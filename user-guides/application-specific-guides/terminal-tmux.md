@@ -1,5 +1,6 @@
 ---
 description: Terminal emulator based on tmux
+hidden: true
 ---
 
 # Terminal \[tmux]

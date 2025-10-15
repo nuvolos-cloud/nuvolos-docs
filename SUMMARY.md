@@ -110,6 +110,7 @@
   * [Terminal \[tmux\]](user-guides/application-specific-guides/terminal-tmux.md)
   * [Claude Code](user-guides/application-specific-guides/claude-code.md)
   * [Gemini CLI](user-guides/application-specific-guides/gemini-cli.md)
+  * [OpenAI Codex](user-guides/application-specific-guides/openai-codex.md)
   * [Apache Airflow](user-guides/application-specific-guides/apache-airflow.md)
   * [Apache Superset](user-guides/application-specific-guides/apache-superset.md)
   * [D-Wave Inspector](user-guides/application-specific-guides/d-wave-inspector.md)
