@@ -3,24 +3,17 @@
 ## Introduction
 
 * [What is Nuvolos?](introduction/what-is-nuvolos.md)
-* [Key concepts](introduction/key-concepts/README.md)
-    * [Organisational hierarchy](introduction/key-concepts/organisational-hierarchy.md)
-    * [Applications](introduction/key-concepts/applications.md)
-    * [Distribution](introduction/key-concepts/distribution.md)
-    * [Data integration](introduction/key-concepts/data-integration.md)
-    * [Snapshots](introduction/key-concepts/snapshots.md)
-    * [Background tasks](introduction/key-concepts/background-tasks.md)
-    * [Distribution strategies](introduction/key-concepts/distribution-strategies.md)
-    * [The distributed instance](introduction/key-concepts/the-distributed-instance.md)
+* [Core Concepts](introduction/core-concepts.md)
 
 
 ## Getting Started
 
-* [Documentation structure](getting-started/documentation-structure.md)
+* [Overview](getting-started/README.md)
 * [Navigating the UI](getting-started/navigating-the-ui.md)
-* [Quickstart Research](getting-started/quickstart-research.md)
-* [Quickstart Education (Instructor)](getting-started/quickstart-education-instructor.md)
-* [Quickstart Education (Student)](getting-started/quickstart-education-student.md)
+* [Tutorials](getting-started/tutorials/README.md)
+    * [Research Project Setup](getting-started/tutorials/research-project-setup.md)
+    * [Course Setup for Instructors](getting-started/tutorials/course-setup-for-instructors.md)
+    * [Joining a Course for Students](getting-started/tutorials/joining-a-course-for-students.md)
 
 ## User Guides
 

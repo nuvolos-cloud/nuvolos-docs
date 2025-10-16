@@ -1,5 +1,11 @@
-# Quickstart tutorials
+# Getting Started
 
-To get started with Nuvolos quickly and without fuss, follow the basic steps in our quickstart tutorials listed below. We have provided a basic tutorial for getting started with a research project, as well as a tutorial for setting up a course as a course instructor and accepting and joining a course as a student.
+Welcome to Nuvolos! This section is designed to help you get up and running on the platform quickly.
 
-This should cover the basics to get going with your project; for more detailed information, refer to the [feature descriptions](broken-reference) and the [user guides](broken-reference) for more specific walkthroughs.
+Choose one of the tutorials below based on your role:
+
+*   **For Researchers:** Learn how to [set up your first research project](./tutorials/research-project-setup.md).
+*   **For Instructors:** Follow our guide to [set up a new course](./tutorials/course-setup-for-instructors.md).
+*   **For Students:** Find out how to [join a course](./tutorials/joining-a-course-for-students.md).
+
+For a general overview of the user interface, see our guide on [Navigating the UI](./navigating-the-ui.md).
