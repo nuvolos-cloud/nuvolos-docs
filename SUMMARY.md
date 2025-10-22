@@ -198,7 +198,7 @@
     * [I can't stop a running application](faqs/troubleshooting/application-troubleshooting/i-cant-stop-a-running-application.md)
     * [My code stopped running unexpectedly](faqs/troubleshooting/application-troubleshooting/my-code-stopped-running-unexpectedly.md)
     * [Git troubleshooting](faqs/troubleshooting/application-troubleshooting/git-troubleshooting.md)
-    * [JupyterLab 3 troubleshooting](faqs/troubleshooting/application-troubleshooting/jupyterlab-3-troubleshooting.md)
+    * [JupyterLab 3 troubleshooting](faqs/troubleshooting/application-troubleshooting/jupyterlab-3- troubleshooting.md)
     * [Spyder 3.7 troubleshooting](faqs/troubleshooting/application-troubleshooting/spyder-3.7-troubleshooting.md)
   * [Administration troubleshooting](faqs/troubleshooting/administration-troubleshooting/README.md)
     * [I can't see a space](faqs/troubleshooting/administration-troubleshooting/i-cant-see-a-space.md)
