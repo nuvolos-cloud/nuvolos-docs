@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-*   [Introduction to Nuvolos](README.md)
+
 *   [Getting Started](getting-started/README.md)
     *   [For Instructors](getting-started/instructors/README.md)
         *   [Add a new course](getting-started/instructors/add-a-new-course.md)
