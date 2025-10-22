@@ -1,6 +1,15 @@
 # Getting Started for Researchers
 
-Nuvolos empowers researchers to set up projects, collaborate with colleagues, and manage their research data and applications efficiently.
+Nuvolos offers researchers a collaborative, reproducible, and scalable environment for their projects. It streamlines the process of managing data, code, and computational environments, enabling you to focus on your research questions.
+
+Nuvolos helps you solve the following challenges:
+
+*   **Reproducibility:** Ensuring your research is fully reproducible by capturing the complete computational environment, including data, code, and software dependencies.
+*   **Collaboration:** Facilitating seamless collaboration with colleagues by providing a shared environment where you can work together on code and data in real-time.
+*   **Data Management:** Simplifying the management of large and complex datasets, providing a centralized and secure location for your research data.
+*   **Scalability:** Offering scalable computational resources that can be adjusted to meet the demands of your research, from initial exploration to large-scale analysis.
+*   **Environment Management:** Eliminating the complexities of managing software dependencies and environments, allowing you to easily switch between different projects and configurations.
+*   **Preservation:** Ensuring the long-term preservation of your research outputs, including data, code, and results, in a secure and accessible format.
 
 ## Tutorials
 

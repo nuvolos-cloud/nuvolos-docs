@@ -1,6 +1,15 @@
 # Getting Started for Instructors
 
-Nuvolos facilitates instructors to set up courses, distribute materials, and manage student assignments seamlessly.
+Nuvolos provides a powerful and flexible environment for instructors to deliver courses, manage assignments, and interact with students. It simplifies the complexities of setting up and managing software environments for teaching, allowing you to focus on the course content and student engagement.
+
+Nuvolos helps you solve the following challenges:
+
+*   **Environment Consistency:** Ensuring all students have the exact same software environment, eliminating the "it works on my machine" problem.
+*   **Software Accessibility:** Providing students with access to specialized or licensed software without requiring them to install it on their personal computers.
+*   **Simplified Material Distribution:** Easily distributing course materials, assignments, and updates to all students.
+*   **Streamlined Assignment Management:** Managing the entire assignment lifecycle, from creation and distribution to collection and grading.
+*   **Version Control and Reproducibility:** Tracking changes in course materials and student work, ensuring reproducibility and allowing you to revert to previous versions if needed.
+*   **Scalable Computing Resources:** Providing students with access to the computational resources they need for their coursework, from simple scripts to complex simulations.
 
 ## Tutorials
 
