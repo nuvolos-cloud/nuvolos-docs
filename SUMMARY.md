@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-*   [For Instructors](getting-started/instructors/README.md)
+*   [Instructors](getting-started/instructors/README.md)
     *   [Add a new course](getting-started/instructors/add-a-new-course.md)
     *   [Add teaching material](getting-started/instructors/add-teaching-material.md)
     *   [Invite students](getting-started/instructors/invite-students.md)
@@ -12,7 +12,7 @@
     *   [Distribute to prospective students](getting-started/instructors/distribute-to-prospective-students.md)
     *   [Create an assignment](getting-started/instructors/create-an-assignment.md)
     *   [Best practice: Structuring your course](getting-started/instructors/best-practice-structuring-your-course.md)
-*   [For Students](getting-started/students/README.md)
+*   [Students](getting-started/students/README.md)
     *   [Use the self-signup link](getting-started/students/generate-invitation.md)
     *   [Accept your invitation](getting-started/students/accept-your-invitation.md)
     *   [Sign in](getting-started/students/sign-in.md)
@@ -21,7 +21,7 @@
     *   [Start an application](getting-started/students/start-an-application.md)
     *   [Snapshot your work](getting-started/students/snapshot-your-work.md)
     *   [A short video guide](getting-started/students/a-short-video-guide.md)
-*   [For Researchers](getting-started/researchers/README.md)
+*   [Researchers](getting-started/researchers/README.md)
     *   [Set up a research project](getting-started/researchers/set-up-a-research-project.md)
     *   [Add material to the project](getting-started/researchers/add-material-to-the-project.md)
     *   [Create alternate approaches](getting-started/researchers/create-alternate-approaches.md)
