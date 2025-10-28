@@ -35,7 +35,6 @@
     *   [Snapshots](features/nuvolos-basic-concepts/snapshots.md)
     *   [Background tasks](features/nuvolos-basic-concepts/background-tasks.md)
 *   [Navigate in Nuvolos](features/navigate-in-nuvolos.md)
-*   [Documentation structure](features/documentation-structure.md)
 *   [Applications](features/applications/README.md)
     *   [Create an application](features/applications/create-an-application.md)
     *   [Application resources](features/applications/application-resources.md)
