@@ -14,7 +14,16 @@ There are multiple ways to do this. The simplest and most time efficient one is 
 
 Make sure to save the file by selecting the home icon with datahub first - this is your home folder and Stata will look for the `ado/personal` folders there.
 
-### Adding your Stata license file
+## Installing packages
+
+When you install new packages in Stata using `scc install ...`, by default they are installed to your PLUS directory. This directory is inside your Linux home folder, and thus not visible for other Nuvolos users.
+
+To install packages that are accessible for other Nuvolos users, you can
+
+* Run Stata in [Shared mode](../../features/applications/configuring-applications.md#run-in-shared-mode). In this case, every Nuvolos user will interact with the same running application which will have its own Linux home folder, so installations in PLUS will be persistent between restarts and visible to all users
+* Install the package into the SITE directory by issuing the following command: `net set ado SITE` . All subsequent `scc install` commands will now install to the SITE directory until you restart Stata. Packages installed to SITE will be visible to all users running the same Stata app, even without enabling Shared mode.
+
+## Adding your Stata license file
 
 The applications with description "Stata XX YY with license from Nuvolos secret" are all application images which can be configured to run with a license file provided by you. These application images will only work if there is a `STATA_LICENSE` secret configured in your project. The secret can be either a personal, a space-level or an organisation-level secret.
 
