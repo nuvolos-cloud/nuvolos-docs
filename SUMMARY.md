@@ -1,7 +1,8 @@
 # Table of contents
 
-## Getting Started
+*   [Welcome to Nuvolos](README.md)
 
+## Getting Started
 
 *   [Getting Started](getting-started/README.md)
     *   [For Instructors](getting-started/instructors/README.md)
@@ -13,7 +14,7 @@
         *   [Create an assignment](getting-started/instructors/create-an-assignment.md)
         *   [Best practice: Structuring your course](getting-started/instructors/best-practice-structuring-your-course.md)
     *   [For Students](getting-started/students/README.md)
-        *   [Generate invitation](getting-started/students/generate-invitation.md)
+        *   [Use the self-signup link](getting-started/students/generate-invitation.md)
         *   [Accept your invitation](getting-started/students/accept-your-invitation.md)
         *   [Sign in](getting-started/students/sign-in.md)
         *   [Access course resources](getting-started/students/access-course-resources.md)
