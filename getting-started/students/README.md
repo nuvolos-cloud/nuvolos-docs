@@ -12,11 +12,7 @@ Nuvolos helps you solve the following challenges:
 
 ## Tutorials
 
-* <strong>[Generate invitation](generate-invitation.md)</strong>: Learn how to generate your course invitation.
 * <strong>[Accept your invitation](accept-your-invitation.md)</strong>: Accept your course invitation to get started.
-* <strong>[Sign in](sign-in.md)</strong>: Sign in to the Nuvolos platform.
-* <strong>[Access course resources](access-course-resources.md)</strong>: Access your course materials and resources.
-* <strong>[Download or upload material](download-or-upload-material.md)</strong>: Learn how to download and upload files.
 * <strong>[Start an application](start-an-application.md)</strong>: Start and use applications in your workspace.
 * <strong>[Snapshot your work](snapshot-your-work.md)</strong>: Save your work by creating a snapshot.
 * <strong>[A short video guide](a-short-video-guide.md)</strong>: Watch a short video guide to get started.
