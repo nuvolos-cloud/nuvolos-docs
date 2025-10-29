@@ -20,3 +20,5 @@ Invited students will be able to see only their workspace, not the master instan
 {% endhint %}
 
 {% embed url="https://youtu.be/XxUfYnZfIsQ" %}
+
+For a more detailed guide on inviting users to a space, please see the [Invite to a Space Guide](../../administration/space-management/invite-to-a-space.md).

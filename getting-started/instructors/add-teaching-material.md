@@ -7,3 +7,5 @@ Course material consists of items like code, documents, or data files that are u
 Alternatively, you can click on the 'Upload files' tile in the Overview course checklist and it will directly open the file upload modal.
 
 ![](<../../.gitbook/assets/Screen Shot 2021-05-20 at 3.28.02 PM.png>)
+
+For more details on managing files, see the [File Navigator Guide](../../features/file-system-and-storage/file-navigator.md).

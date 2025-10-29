@@ -16,3 +16,5 @@ The key steps of the process:
    * By default overwrite is suggested, consult the detailed distribution documentation for other options and their use cases.
 5. **Specify a notification message**
    * Your current students will receive the message you specified to their e-mail addresses.
+
+For a more detailed guide on distribution, please see the [Object Distribution Guide](../../features/object-distribution/README.md).
