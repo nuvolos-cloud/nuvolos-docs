@@ -1,3 +1,7 @@
+---
+description: Troubleshooting for JupyterLab 3 & 4
+---
+
 # JupyterLab 3 troubleshooting
 
 ## File save error
@@ -15,6 +19,15 @@ If you encounter this, try the following steps:
    example:\
    `rm /opt/conda/share/jupyter/lab/../nbsignatures.db`
 3. Restart the application
+
+## JupyterLab freezes when opening a specific file
+
+Corrupted files can cause crashes in JupyterLab when opened for viewing. This can create a vicious circle:&#x20;
+
+1. You open the file, and the entire UI freezes
+2. You restart the application, but JupyterLab tries to open the same file again upon loading, and the UI freezes again
+
+To solve the issue, rename the problematic file in the [Nuvolos File navigator](../../../features/file-system-and-storage/file-navigator.md) and restart the application. As JupyterLab won't be able to find the file anymore, the UI will not freeze.
 
 ## Running a Flask application and serving it to JupyterLab
 
