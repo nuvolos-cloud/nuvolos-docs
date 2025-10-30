@@ -2,7 +2,7 @@
 
 ## Invite collaborators
 
-You can invite collaborators if you are a [space admin](../../features/nuvolos-basic-concepts/organisational-hierarchy.md) in a research project. The creator of the project automatically becomes space admin, but every other user has to be invited specifically with that role.
+The creator of the project automatically becomes space admin, but every other user has to be invited specifically with that role.
 
 To make an informed decision about the type of roles you want in your project, consult [our detailed guide](../../administration/roles/). For a more detailed guide on the invitation process, see the [Invite to a Space Guide](../../administration/space-management/invite-to-a-space.md).
 
