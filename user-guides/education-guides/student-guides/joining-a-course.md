@@ -12,22 +12,7 @@ When accepting the invitation, we encourage you to proceed with the recommended 
 
 ## Accept your invitation
 
-In Nuvolos, course participation is by invitation only. To accept an invitation proceed as follows:
-
-1. Open invitation email.
-2. Click **Review Invitation** in the invitation email.
-3. Inspect the roles included in the invitation.
-4. If you have never signed up, sign up.
-5. Click accept invitation.
-6. For first-time users, the signing up process might take up to a minute to conclude.
-
-{% hint style="danger" %}
-When accepting the invitation, we encourage you to proceed with the recommended option. For students affiliated with a swiss higher education institution, this is SWITCH.
-
-If you choose to sign up with e-mail and password authentication, the SWITCH option will not be available for you anymore.
-{% endhint %}
-
-![](../../../.gitbook/assets/accept_invite_1_ed.gif)
+Visit [accept-your-invitation.md](../../../getting-started/students/accept-your-invitation.md) to learn how to accept your invitation step-by-step.
 
 ## Sign in
 
@@ -59,21 +44,9 @@ If you chose to sign up with e-mail and password authentication, you need to sig
 
 ## Start an application
 
-1. Applications can be started from the dashboard directly.
-2. Applications can also be accessed from the application menu of your instance overview.
-
-{% hint style="info" %}
-Application startup will take approximately 30 to 60 seconds. For certain applications, the first startup might take longer depending on the amount of setting and package files that needs to be copied.&#x20;
-{% endhint %}
-
-![Starting an app from your dashboard](../../../.gitbook/assets/app_start_dashboard_ed.gif)
-
-![Starting an app from your instance overview](../../../.gitbook/assets/app_start_instance_ed.gif)
+Visit [start-an-application.md](../../../getting-started/students/start-an-application.md) to learn how to start an application step-by-step.
 
 ## Snapshot your work
 
-1. You can take a snapshot by clicking the Photo camera button once you are in the context of your instance.
-2. Fill out the details. If you don't want to spend energy, you can just create a **quick snapshot**.
-
-![Creating a snapshot of your work](../../../.gitbook/assets/snapshot_student_ed.gif)
+Visit [snapshot-your-work.md](../../../getting-started/students/snapshot-your-work.md) to learn how to create a snapshot step-by-step.
 
