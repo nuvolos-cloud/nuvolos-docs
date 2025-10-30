@@ -1,3 +1,5 @@
+> **Prerequisite:** You must have the **Space Admin** role to perform this action. Read more about [Roles and Permissions](../../administration/roles/README.md).
+
 ## Invite collaborators
 
 You can invite collaborators if you are a [space admin](../../features/nuvolos-basic-concepts/organisational-hierarchy.md) in a research project. The creator of the project automatically becomes space admin, but every other user has to be invited specifically with that role.

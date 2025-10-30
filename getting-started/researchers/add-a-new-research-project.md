@@ -1,3 +1,5 @@
+> **Prerequisite:** You must have the **Org Faculty** role to perform this action. Read more about [Roles and Permissions](../../administration/roles/README.md).
+
 ## Set up a research project
 
 Research projects are spaces in Nuvolos where researchers can store and work on their code and data. Organisation managers or faculty members may create research projects. For more details on managing spaces, see the [Space Management Guide](../../administration/space-management/README.md).

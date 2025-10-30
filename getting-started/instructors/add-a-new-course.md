@@ -1,3 +1,5 @@
+> **Prerequisite:** You must have the **Org Faculty** role to perform this action. Read more about [Roles and Permissions](../../administration/roles/README.md).
+
 # Education (instructor)
 
 {% hint style="success" %}
