@@ -112,7 +112,6 @@
   * [Configuring student applications](user-guides/education-guides/configuring-student-applications.md)
   * [Archiving your course](user-guides/education-guides/archiving-your-course.md)
   * [Student guides](user-guides/education-guides/student-guides/README.md)
-    * [Joining a course](user-guides/education-guides/student-guides/joining-a-course.md)
     * [Working on assignments](user-guides/education-guides/student-guides/working-on-assignments.md)
     * [Working with a GPU in a course](user-guides/education-guides/student-guides/working-with-a-gpu-in-a-course.md)
     * [Leaving a course](user-guides/education-guides/student-guides/leaving-a-course.md)
