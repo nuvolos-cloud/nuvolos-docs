@@ -12,7 +12,7 @@ Nuvolos helps you solve the following challenges:
 
 ## Tutorials
 
-* <strong>[Accept your invitation](accept-your-invitation.md)</strong>: Accept your course invitation to get started.
+* <strong>[Join a course](join-a-course.md)</strong>: Accept your course invitation to get started.
 * <strong>[Start an application](start-an-application.md)</strong>: Start and use applications in your workspace.
 * <strong>[Snapshot your work](snapshot-your-work.md)</strong>: Save your work by creating a snapshot.
 * <strong>[A short video guide](a-short-video-guide.md)</strong>: Watch a short video guide to get started.
