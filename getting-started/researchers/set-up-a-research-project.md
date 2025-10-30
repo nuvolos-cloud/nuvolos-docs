@@ -1,6 +1,6 @@
 ## Set up a research project
 
-Research projects are spaces in Nuvolos where researchers can store and work on their code and data. Organisation managers or faculty members may create research projects.
+Research projects are spaces in Nuvolos where researchers can store and work on their code and data. Organisation managers or faculty members may create research projects. For more details on managing spaces, see the [Space Management Guide](../../administration/space-management/README.md).
 
 You may create research projects directly from the dashboard. Note that if you have already more than three projects, the add button will be at the bottom of your quick access group.
 

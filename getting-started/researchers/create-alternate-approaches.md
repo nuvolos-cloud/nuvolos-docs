@@ -4,11 +4,11 @@ Creating alternate approaches in your research project can be done in two steps:
 
 1. Create a new instance with an appropriate name.
 2. Distribute material from the main master instance.
-3. You will need to be comfortable with context switching, we suggest to take a look at our [navigation guide](../navigate-in-nuvolos.md).
+3. You will need to be comfortable with context switching, we suggest to take a look at our [navigation guide](../../features/navigate-in-nuvolos.md).
 
 #### Create new instance
 
-To create an instance, you need to be a [space administrator](../../administration/roles/) of your project.
+To create an instance, you need to be a [space administrator](../../administration/roles/) of your project. For more details, see the [Instance Management Guide](../../administration/instance-management/README.md).
 
 1. Navigate to "Space management", denoted by the gear icon and click.
 2. Select "Project Users/Instances"
@@ -25,7 +25,7 @@ To distribute some material:
 1. First navigate to the files, applications you want to distribute.
 2. Click on the stage button for the objects you want to distribute.
 3. Click on the distribute menu on the sidebar or on the overview.
-4. Follow the steps of distribution. For more details, refer to our [detailed guide on distribution](../nuvolos-basic-concepts/distribution.md).
+4. Follow the steps of distribution. For more details, refer to our [detailed guide on distribution](../../features/nuvolos-basic-concepts/distribution.md).
 
 In the following example, we distribute two files and an application to the previously created empty instance.
 

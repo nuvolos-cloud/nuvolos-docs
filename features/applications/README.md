@@ -19,22 +19,7 @@ In the [research workflow guide](../../getting-started/quickstart-tutorials/rese
 
 ## Run an application
 
-In order to run an application, you can follow two routes:
-
-1. Run a recent application from your dashboard.
-2. Navigate to the instance of your choice and run the application directly from there.
-
-#### Running from dashboard
-
-The three latest applications will appear on your dashboard. You can verify the location of the application by hovering over the start-stop button.
-
-#### Running from an instance
-
-You can navigate to the application view of your instance and find the list of applications there.
-
-We present a hybrid of the two approaches by showing how to find the recent applications' instance and running it from there:
-
-![Starting an app on Nuvolos](../../.gitbook/assets/run_app_ed.gif)
+Visit [Work with applications](../../getting-started/researchers/work-with-applications.md) to learn how to run an application step-by-step.
 
 ## Stop an application
 
