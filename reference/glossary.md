@@ -38,7 +38,7 @@ NCUs stand for Nuvolos Compute Units. They are the unit of measurement of regula
 
 ### Organisation
 
-In Nuvolos, the organisation is the highest level of the [organisational hierarchy](../getting-started/nuvolos-basic-concepts/organisational-hierarchy.md). It represents the basic organisational unit through which a user interacts with our product, and is primarily used for access control purposes.
+In Nuvolos, the organisation is the highest level of the [organisational hierarchy](../features/nuvolos-basic-concepts/organisational-hierarchy.md). It represents the basic organisational unit through which a user interacts with our product, and is primarily used for access control purposes.
 
 ### Space
 
