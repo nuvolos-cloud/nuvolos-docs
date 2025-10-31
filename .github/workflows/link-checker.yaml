@@ -16,6 +16,11 @@ jobs:
         id: link_checker
         run: |
           ./check_links.sh . > broken_links.txt
+          {
+            echo 'BROKEN_LINKS<<EOF'
+            cat broken_links.txt
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
 
       - name: Check for broken links
         id: check_file
@@ -35,8 +40,9 @@ jobs:
           body: |
             **Broken Markdown Links Found:**
             ```
-            $(cat broken_links.txt)
+            ${{ steps.link_checker.outputs.BROKEN_LINKS }}
             ```
+
       - name: Fail workflow if broken links are found
         if: env.BROKEN_LINKS_FOUND == 'true'
         run: exit 1
