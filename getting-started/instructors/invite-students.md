@@ -1,3 +1,5 @@
+> **Prerequisite:** You must have the **Space Admin** role to perform this action. Read more about [Roles and Permissions](../../administration/roles/README.md).
+
 ## Invite students
 
 Once the teaching material is set up and distributed, you are ready to invite students. You are able to invite them either via invitation link (anyone clicking the link will get access to your course) or directly via e-mail.

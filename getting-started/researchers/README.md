@@ -13,7 +13,8 @@ Nuvolos helps you solve the following challenges:
 
 ## Tutorials
 
-* <strong>[Set up a research project](set-up-a-research-project.md)</strong>: Learn how to create a new research project.
+* <strong>[Add a new research project](add-a-new-research-project.md)</strong>: Learn how to create a new research project.
+* <strong>[Join a research project](join-a-research-project.md)</strong>: Learn how to join a project as a collaborator.
 * <strong>[Add material to the project](add-material-to-the-project.md)</strong>: Upload files and source code to your project.
 * <strong>[Create alternate approaches](create-alternate-approaches.md)</strong>: Create new instances to explore different research paths.
 * <strong>[Invite collaborators](invite-collaborators.md)</strong>: Invite colleagues to collaborate on your research.
