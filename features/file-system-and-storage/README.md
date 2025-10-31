@@ -6,7 +6,7 @@ description: All about storing files and folders on Nuvolos
 
 ## Choose your context
 
-In all of the following operations, we assume that you know [how to pick the appropriate context for your work](../../getting-started/navigate-in-nuvolos.md) (that is, finding the current state of an instance in which you are implicitly or explicitly an editor).
+In all of the following operations, we assume that you know [how to pick the appropriate context for your work](../navigate-in-nuvolos.md) (that is, finding the current state of an instance in which you are implicitly or explicitly an editor).
 
 {% hint style="info" %}
 Only current states can be modified - snapshots are immutable!

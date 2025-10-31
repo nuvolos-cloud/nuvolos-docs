@@ -26,7 +26,7 @@ A generic flow would require the following steps:
 4. Clean and manipulate data to reach the desired layout and quality either via in-memory or in-SDW procedures or a combination of both.
 5. Document data.
 6. [Distribute data](../object-distribution/) along with its documentation to the dataset space.
-7. Create vintage in the dataset space by using the [snapshot feature](../../getting-started/nuvolos-basic-concepts/snapshots.md).
+7. Create vintage in the dataset space by using the [snapshot feature](../nuvolos-basic-concepts/snapshots.md).
 
 ### Documenting your data
 

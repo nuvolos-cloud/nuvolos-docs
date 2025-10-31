@@ -26,7 +26,7 @@ Regardless of the target instance selected, an automatic snapshot of the current
 
 ## Partially restore a snapshot
 
-It is possible to partially restore a snapshot via the [distribution feature](../../getting-started/nuvolos-basic-concepts/distribution.md) of Nuvolos. This can be used to selectively recover **files, tables or application libraries / packages**, without affecting the whole working environment.
+It is possible to partially restore a snapshot via the [distribution feature](../nuvolos-basic-concepts/distribution.md) of Nuvolos. This can be used to selectively recover **files, tables or application libraries / packages**, without affecting the whole working environment.
 
 The steps to take are the following:
 
@@ -35,7 +35,7 @@ The steps to take are the following:
 
 ![](<../../.gitbook/assets/Screenshot 2022-05-02 152731.png>)
 
-&#x20;   4\. [Stage the objects](../../getting-started/nuvolos-basic-concepts/distribution.md) (files, tables or applications) you want to restore.
+&#x20;   4\. [Stage the objects](../nuvolos-basic-concepts/distribution.md) (files, tables or applications) you want to restore.
 
 &#x20;   5\. Select the same instance you are in as the distribution target.
 

@@ -1,0 +1,48 @@
+name: Check Markdown Links
+
+on:
+  pull_request:
+    paths:
+      - '**.md'
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run link checker script and save output
+        id: link_checker
+        run: |
+          ./check_links.sh . > broken_links.txt
+          {
+            echo 'BROKEN_LINKS<<EOF'
+            cat broken_links.txt
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Check for broken links
+        id: check_file
+        run: |
+          if [ -s broken_links.txt ]; then
+            echo "BROKEN_LINKS_FOUND=true" >> $GITHUB_ENV
+            echo "::error::Found broken links"
+          else
+            echo "BROKEN_LINKS_FOUND=false" >> $GITHUB_ENV
+          fi
+
+      - name: Comment on PR with broken links
+        if: env.BROKEN_LINKS_FOUND == 'true'
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            **Broken Markdown Links Found:**
+            ```
+            ${{ steps.link_checker.outputs.BROKEN_LINKS }}
+            ```
+
+      - name: Fail workflow if broken links are found
+        if: env.BROKEN_LINKS_FOUND == 'true'
+        run: exit 1

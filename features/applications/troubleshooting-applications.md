@@ -40,7 +40,7 @@ Note that **Clear settings** and **Factory reset** are complementary features. T
 In certain cases, installing an application package / library / add-on can adversely impact the behavior of an application (e.g. not being able to execute a code or launch the application at all). In this case, please try restoring the application from a snapshot that contains a still working version of the application:
 
 1. Stop the application you wish to restore.
-2. Open the [snapshot ](../../getting-started/nuvolos-basic-concepts/snapshots.md)from the snapshot view.
+2. Open the [snapshot ](../nuvolos-basic-concepts/snapshots.md) from the snapshot view.
 3. Open the application list on the sidebar.
 4. [Stage](../object-distribution/#distributing-a-selected-list-of-items-a-worked-example) the application for distribution.
 5. Start a distribution to the same instance, which will overwrite the Current State with the packages from the snapshotted version.
