@@ -63,7 +63,7 @@ Datasets are special kinds of spaces, with the main goal of containing only tabu
 ![Viewing the list of available datasets](../../.gitbook/assets/dataset_navigate_ed.gif)
 
 {% hint style="warning" %}
-Datasets consist of immutable [snapshots](../../getting-started/nuvolos-basic-concepts/snapshots.md). Datasets are to be used as sources of distribution, not to directly work in.
+Datasets consist of immutable [snapshots](../nuvolos-basic-concepts/snapshots.md). Datasets are to be used as sources of distribution, not to directly work in.
 {% endhint %}
 
 ## Distribute data you need

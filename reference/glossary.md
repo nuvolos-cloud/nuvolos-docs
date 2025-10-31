@@ -18,7 +18,7 @@ Credits (formerly Alphacruncher Credits) are units of measure for additional on-
 
 ### Distribution
 
-In this documentation, distribution refers to the dedicated functionality in Nuvolos for sharing Nuvolos artefacts, i.e. code, data, files, applications, and so forth. This is done by a push operation to stage objects and then to send them to other instances, spaces, or organisations. View our [conceptual intro on distribution](../getting-started/nuvolos-basic-concepts/distribution.md) for a summary, or detailed information in our [feature explanation for distribution](../features/object-distribution/).
+In this documentation, distribution refers to the dedicated functionality in Nuvolos for sharing Nuvolos artefacts, i.e. code, data, files, applications, and so forth. This is done by a push operation to stage objects and then to send them to other instances, spaces, or organisations. View our [conceptual intro on distribution](../features/nuvolos-basic-concepts/distribution.md) for a summary, or detailed information in our [feature explanation for distribution](../features/object-distribution/).
 
 ### GPU computing
 
@@ -30,11 +30,11 @@ HPC is short for High Performance Computing, i.e. the use of high-end computer c
 
 ### Instance
 
-Instances are the lowest and most directly practical level in the Nuvolos [organisational hierarchy](../getting-started/nuvolos-basic-concepts/organisational-hierarchy.md). In terms of the workflow, they represent branches or immediate working environments of a project. Any project space can have many instances to experiment, try out different data sources or application configurations, and so forth. Two instances are always present: the master instance - which can be thought of as the source of truth about the project - and [the distributed instance](../features/object-distribution/the-distributed-instance.md).
+[organisational hierarchy](../features/nuvolos-basic-concepts/organisational-hierarchy.md). In terms of the workflow, they represent branches or immediate working environments of a project. Any project space can have many instances to experiment, try out different data sources or application configurations, and so forth. Two instances are always present: the master instance - which can be thought of as the source of truth about the project - and [the distributed instance](../features/object-distribution/the-distributed-instance.md).
 
 ### NCUs
 
-NCUs stand for Nuvolos Compute Units. They are the unit of measurement of regular [applications](../getting-started/nuvolos-basic-concepts/applications.md) and the unit of account used to define the [Nuvolos subscription](../pricing-and-billing/pricing-structure.md). For more information, refer to our [page on NCUs](../pricing-and-billing/nuvolos-compute-units-ncus.md).
+NCUs stand for Nuvolos Compute Units. They are the unit of measurement of regular [applications](../features/nuvolos-basic-concepts/applications.md) and the unit of account used to define the [Nuvolos subscription](../pricing-and-billing/pricing-structure.md). For more information, refer to our [page on NCUs](../pricing-and-billing/nuvolos-compute-units-ncus.md).
 
 ### Organisation
 
@@ -42,7 +42,7 @@ In Nuvolos, the organisation is the highest level of the [organisational hierarc
 
 ### Space
 
-In the Nuvolos [organisational hierarchy](../getting-started/nuvolos-basic-concepts/organisational-hierarchy.md), spaces are the intermediate level. In terms of the practical workflow, each space corresponds more or less to a project. Access control and budgeting can be applied at space level.
+In the Nuvolos [organisational hierarchy](../features/nuvolos-basic-concepts/organisational-hierarchy.md), spaces are the intermediate level. In terms of the practical workflow, each space corresponds more or less to a project. Access control and budgeting can be applied at space level.
 
 ### Staging
 

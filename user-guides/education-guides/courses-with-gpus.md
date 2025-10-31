@@ -35,7 +35,7 @@ In this workflow, every space administrator can launch GPU-enabled machines **in
 
 ### Schedule a GPU Lab Sessions
 
-You can schedule a lab session using the [Schedule for startup](configuring-student-applications.md#scheduled-startup-of-student-applications) feature. For that, you need to have an application that you have [already distributed](../../getting-started/nuvolos-basic-concepts/distribution.md) to all course participants.
+You can schedule a lab session using the [Schedule for startup](configuring-student-applications.md#scheduled-startup-of-student-applications) feature. For that, you need to have an application that you have [already distributed](../../features/nuvolos-basic-concepts/distribution.md) to all course participants.
 
 To schedule a session on machines with GPU:
 

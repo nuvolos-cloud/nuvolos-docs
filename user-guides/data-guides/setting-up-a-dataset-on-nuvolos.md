@@ -44,7 +44,7 @@ In order to see what tools are available for data pipelines, please refer to thi
 
 **Required role: editor in appropriate instance of dataset space**
 
-Once your pipeline is finished, the artefacts you want to store are available. Make sure to [distribute your data](../../getting-started/nuvolos-basic-concepts/distribution.md) (either tables, or files or a combination of the two) to the dataset space. You may want to distribute an app as well which contains a blueprint or a software library that facilitates interaction with your data - however the app will not be able to run in the dataset space.
+Once your pipeline is finished, the artefacts you want to store are available. Make sure to [distribute your data](../../features/nuvolos-basic-concepts/distribution.md) (either tables, or files or a combination of the two) to the dataset space. You may want to distribute an app as well which contains a blueprint or a software library that facilitates interaction with your data - however the app will not be able to run in the dataset space.
 
 {% hint style="info" %}
 If you are doing regular updates to the dataset, we suggest cleaning up the current state before distributing to make sure that the next data vintage is completely clean from previous artefacts.

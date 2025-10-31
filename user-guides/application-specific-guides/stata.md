@@ -51,7 +51,7 @@ If multiple people in your project should use the same Stata license and your li
 
 #### Step 2: Add the application
 
-Make sure you [add any of the applications](../../getting-started/nuvolos-basic-concepts/applications.md) with description "Stata XX YY with license from Nuvolos secret".
+Make sure you [add any of the applications](../../features/nuvolos-basic-concepts/applications.md) with description "Stata XX YY with license from Nuvolos secret".
 
 
 
